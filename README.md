@@ -3,12 +3,12 @@
 </h1>
 
 <p align="center">
-  <img alt="License" src="./src/assets/cover.png">
+  <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=E51C44&labelColor=0A1033">
 
  <img src="https://img.shields.io/static/v1?label=NLW&message=06&color=E51C44&labelColor=0A1033" alt="NLW 06" />
 </p>
 
-![cover](.github/cover.png?style=flat)
+![cover](./src/assets/cover.png)
 
 ## 💻 Projeto
 
@@ -97,5 +97,3 @@ Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para
     <img alt="Discord" src="https://img.shields.io/badge/Discord-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"/>  
   </a>
 </p>
-
-</div>
