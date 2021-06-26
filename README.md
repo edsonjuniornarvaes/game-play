@@ -1,9 +1,9 @@
 <h1 align="center">
-  <img alt="GamePlay" height="80" title="Plant Manager" src=".github/logo.png" />
+  <img alt="GamePlay" height="80" title="Plant Manager" src="./src/assets/logo.png" />
 </h1>
 
 <p align="center">
-  <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=E51C44&labelColor=0A1033">
+  <img alt="License" src="./src/assets/cover.png">
 
  <img src="https://img.shields.io/static/v1?label=NLW&message=06&color=E51C44&labelColor=0A1033" alt="NLW 06" />
 </p>
@@ -77,7 +77,25 @@ Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para
 <div align="center">
   <small>Desenvolvido por Edson Junior de Andrade - Junho/2021</small>
 
-[![Instagram Badge](https://img.shields.io/badge/-edsonjr.andrade-6633cc?style=flat-square&labelColor=6633cc&logo=instagram&logoColor=white&link=https://www.instagram.com/edsonjr.andrade/)](https://www.instagram.com/edsonjr.andrade/)
-[![Linkedin Badge](https://img.shields.io/badge/-Edson%20Junior%20de%20Andrade-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/edsonjuniornarvaes/)](https://www.linkedin.com/in/edsonjuniornarvaes/)
+<p align="center">
+  <a href="https://www.facebook.com/edsonjuniornarvaes/" alt="Facebook">
+    <img alt="Facebook" src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=for-the-badge&logo=Facebook&logoColor=white"/>
+  </a>
+  <a href="https://www.instagram.com/edsonjr.andrade/" alt="Facebook">
+    <img alt="Instagram" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/edsonjuniornarvaes" alt="LinkedIn">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>  
+  </a>
+  <a href="https://edsonjuniornarvaes.medium.com" alt="Medium">
+    <img alt="Medium" src="https://img.shields.io/badge/Medium-%23000000.svg?&style=for-the-badge&logo=Medium&logoColor=white"/>  
+  </a>
+  <a href="mailto:edsonjunior.narvaes@gmail.com" alt="Gmail">
+	<img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />  
+  </a>
+  <a href="https://www.twitch.tv/edsonjuniornarvaes" alt="Discord">
+    <img alt="Discord" src="https://img.shields.io/badge/Discord-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"/>  
+  </a>
+</p>
 
 </div>

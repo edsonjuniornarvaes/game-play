@@ -12,5 +12,7 @@ web-build/
 # macOS
 .DS_Store
 
-#vsCode
+#Visual Studio Code
 .history/
+
+.env
